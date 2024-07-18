@@ -15,4 +15,5 @@ TABLET LAYOUT
 ![](image-1.png)
 
 MOBILE LAYOUT
+
 ![](image-2.png)
